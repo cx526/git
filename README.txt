@@ -3,4 +3,4 @@
 ### git commit -m "explain"
 ### git push
 ### git pull 拉去最新代码
-### 文件再次被修改后覆盖
+### 文件再次被修改后上传(git pull)
