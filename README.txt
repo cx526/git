@@ -2,3 +2,4 @@
 ### git add .
 ### git commit -m "explain"
 ### git push
+### git pull 拉去最新代码
