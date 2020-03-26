@@ -12,4 +12,4 @@
 ### git merge dev 合并dev分支到master上(切换到master分支上合并)
 ### git branch -d dev 删除dev分支，删除的分支当前不能被使用
 
-### 创建分支dev时添加的
+### .gitignore可以忽略掉某些文件
